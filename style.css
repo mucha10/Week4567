@@ -1,7 +1,5 @@
 /* Тут мають бути твої стилі, зверни увагу, як називається файл і яке стало посилання на нього */
-body {
-    background: green;
-}
+
 body {
 
   margin: 0; /* eliminates margin spacing on body so that the footer color is able to fill the window */
